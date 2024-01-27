@@ -1,0 +1,8 @@
+name: SkriptCreator
+version: '${project.version}'
+main: me.meep_xd.skriptcreator.SkriptCreator
+api-version: '1.13'
+commands:
+  skripty:
+    description: Opens the Skripty GUI
+    permission: skripty.use
